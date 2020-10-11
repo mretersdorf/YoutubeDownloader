@@ -1,5 +1,7 @@
 # YoutubeDownloader
-Practice exercise to download youtube videos using pytube library
+Practice exercise to download youtube videos using pytube library.
+
+pip install pytube3
 
 ## Instructions  
 Enter URL for a YouTube video.  
