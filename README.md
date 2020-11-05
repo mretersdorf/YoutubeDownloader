@@ -27,6 +27,6 @@ Stream data will be displayed. Example:
 Enter the itag you would like to download.
 
 ## No Audio  
-Due to a streaming technique used by YouTube called Dynamic Adaptive Streamuing over HTTP (DASH), some videoes will only have video or audio codecs. These must be downloaded seperarately and combined using other third party software.
+Due to a streaming technique used by YouTube called Dynamic Adaptive Streaming over HTTP (DASH), some videoes will only have video or audio codecs. These must be downloaded seperarately and combined using other third party software.
 
 Legacy streams (referred to as "progressive download") are still available at resolutions of 720p and lower. These will contain both audio and video. 
